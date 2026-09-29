@@ -1,0 +1,10 @@
+# Garante que PDFs e afins sejam tratados como binario (sem conversao de linha,
+# sem textconv) para o visualizador do GitHub funcionar.
+*.pdf binary
+*.mht binary
+*.zip binary
+*.db binary
+desktop.ini binary
+# Texto
+*.txt text eol=crlf
+*.md text eol=lf

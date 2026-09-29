@@ -1,0 +1,5 @@
+ATENCAO: a prova 'nutricionista.pdf' desta pasta veio QUEBRADA na origem
+(o arquivo era uma pagina HTML de verificacao 'Are You Human?' do site
+de onde foi baixado, nao um PDF). Por isso foi renomeado para
+'nutricionista-QUEBRADO-na-origem.html'.
+O gabarito (gabaritos_definitivos.pdf) esta normal e abre no GitHub.
